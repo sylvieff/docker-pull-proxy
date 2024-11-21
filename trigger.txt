@@ -1,1 +1,1 @@
-confluentinc/ksqldb-server:0.29.0 registry.cn-beijing.aliyuncs.com/ijx-public/ksqldb-server:0.29.0
+nginx:alpine registry.cn-beijing.aliyuncs.com/ijx-public/nginx:alpine
