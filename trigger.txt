@@ -1,1 +1,1 @@
-nginx:alpine registry.cn-beijing.aliyuncs.com/ijx-public/nginx:alpine
+ubuntu/squid:latest registry.cn-hangzhou.aliyuncs.com/nqxxll/squid:latest
